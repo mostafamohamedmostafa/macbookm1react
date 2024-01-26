@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/macbookm1react/static/css/main.c66ffb2d.css",
+    "main.js": "/macbookm1react/static/js/main.619d28bc.js",
+    "static/js/787.fdcbcde6.chunk.js": "/macbookm1react/static/js/787.fdcbcde6.chunk.js",
+    "static/media/retina_hero.jpg": "/macbookm1react/static/media/retina_hero.2edb43549a42c9ef6a10.jpg",
+    "static/media/machine_learning.png": "/macbookm1react/static/media/machine_learning.b4a7d5176b5ae979bd40.png",
+    "static/media/cpu.png": "/macbookm1react/static/media/cpu.0b70ac97b55b3abacb6f.png",
+    "static/media/macos.png": "/macbookm1react/static/media/macos.0b70ac97b55b3abacb6f.png",
+    "static/media/camera_hero.jpg": "/macbookm1react/static/media/camera_hero.f8eaf6d142352c4f834d.jpg",
+    "static/media/color_bg.jpg": "/macbookm1react/static/media/color_bg.08c48873cb2bd229447b.jpg",
+    "static/media/facetime.png": "/macbookm1react/static/media/facetime.86d9f4f47535574c947c.png",
+    "static/media/macos_apps.png": "/macbookm1react/static/media/macos_apps.3bd3ebef56ad11a4aefc.png",
+    "static/media/router_continuity.jpg": "/macbookm1react/static/media/router_continuity.bdd1da553e69d16d37e0.jpg",
+    "static/media/magic_keyboard.jpg": "/macbookm1react/static/media/magic_keyboard.d9595c659d6da118f301.jpg",
+    "static/media/Gpuimage.jpg": "/macbookm1react/static/media/Gpuimage.1829f59e9e428d68cdfb.jpg",
+    "static/media/trackpad_bg.jpg": "/macbookm1react/static/media/trackpad_bg.ae58ca8ed00f3a93cff0.jpg",
+    "static/media/m1-chip.jpg": "/macbookm1react/static/media/m1-chip.d4aa984a114d575b8b7d.jpg",
+    "static/media/Heroimage.jpg": "/macbookm1react/static/media/Heroimage.ce441c0cf9e7e861c17b.jpg",
+    "static/media/connectivity.jpg": "/macbookm1react/static/media/connectivity.feca31e7b979944a90e5.jpg",
+    "static/media/microphones.jpg": "/macbookm1react/static/media/microphones.e9b9532b90e75d48ae81.jpg",
+    "static/media/pixel_density.png": "/macbookm1react/static/media/pixel_density.009e04baa3cae9a21098.png",
+    "static/media/scissor_mechanism.png": "/macbookm1react/static/media/scissor_mechanism.7616e6ed623f660bc271.png",
+    "index.html": "/macbookm1react/index.html",
+    "main.c66ffb2d.css.map": "/macbookm1react/static/css/main.c66ffb2d.css.map",
+    "main.619d28bc.js.map": "/macbookm1react/static/js/main.619d28bc.js.map",
+    "787.fdcbcde6.chunk.js.map": "/macbookm1react/static/js/787.fdcbcde6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c66ffb2d.css",
+    "static/js/main.619d28bc.js"
+  ]
+}
