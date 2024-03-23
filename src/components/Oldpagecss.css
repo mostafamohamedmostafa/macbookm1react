@@ -1,0 +1,494 @@
+.OldVersionPage {
+    margin: 0;
+    font-family: "Open Sans", sans-serif !important;
+    background-color: black !important;
+  }
+  section {
+    margin-bottom: 4%;
+  }
+  .HeroText {
+    text-align: center;
+    font-size: 2.3rem;
+    color: #acacac;
+  }
+  
+  .Hero .card {
+    background-color: transparent;
+    color: #acacac;
+  }
+  .Hero .card img {
+    text-align: center;
+  }
+  
+  .Monechip {
+    margin-top: 7%;
+  }
+  
+  h1,
+  h5 {
+    color: white;
+  }
+  
+  p {
+    color: #acacac;
+  
+    font-size: 1.5rem;
+  }
+  .card {
+    border-radius: 35px 35px 35px 35px;
+    border: none;
+  }
+  .Cpu .cpu-card {
+    background: rgb(109, 61, 153);
+    background: radial-gradient(
+      circle,
+      rgba(109, 61, 153, 1) 0%,
+      rgba(63, 72, 130, 1) 100%
+    );
+    border-radius: 35px 35px 35px 35px;
+    border: none;
+  }
+  .cpu-card {
+    padding: 5%;
+  }
+  .Gpu {
+    margin-top: 5%;
+  }
+  .Gpu .Gpu-card {
+    background-image: url("../images/Gpuimage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30rem;
+    border-radius: 35px 35px 35px 35px;
+    color: #ffffff;
+    padding: 6%;
+  }
+  
+  .Gpu .Gpu-card span {
+    color: aqua;
+  }
+  .Gpu-card h1 {
+    font-size: 4rem;
+  }
+  
+  .Battery-card {
+    height: 40rem;
+  }
+  
+  .Battery-cardgreen .card {
+    background: rgb(26, 33, 29);
+    background: linear-gradient(
+      41deg,
+      rgba(26, 33, 29, 1) 0%,
+      rgba(31, 46, 36, 1) 100%
+    );
+    border-radius: 35px 35px 35px 35px;
+  }
+  .Battery-cardgreen .card h5 {
+    color: white;
+  }
+  
+  .Battery-cardgreen .card h1 {
+    color: white;
+    text-align: center;
+    font-size: 85px;
+    padding: 10%;
+    color: rgb(82, 255, 116);
+  }
+  
+  .Battery-cardblue .card {
+    background: rgb(29, 87, 181);
+    background: linear-gradient(
+      41deg,
+      rgba(29, 87, 181, 1) 0%,
+      rgba(36, 50, 188, 1) 100%
+    );
+    border-radius: 35px 35px 35px 35px;
+  }
+  
+  .Battery-cardblue .card h5 {
+    color: white;
+  }
+  
+  .Battery-cardblue .card p {
+    text-align: center;
+    font-size: 85px;
+    color: #ffffff;
+  }
+  
+  .Machinelearning-card {
+    background: rgb(6, 20, 32);
+    background: linear-gradient(
+      41deg,
+      rgba(6, 20, 32, 1) 0%,
+      rgba(17, 20, 24, 1) 100%
+    );
+    border-radius: 35px 35px 35px 35px;
+    padding: 2%;
+  }
+  .Machinelearning-card h5,
+  .Machinelearning-card span {
+    color: #ffffff;
+  }
+  
+  .Machinelearning-card h1 {
+    color: #acacac;
+    font-size: xx-large;
+  }
+  
+  .acos-card {
+    background: rgb(37, 89, 144);
+    background: linear-gradient(
+      41deg,
+      rgba(37, 89, 144, 1) 0%,
+      rgba(41, 26, 63, 1) 100%
+    );
+    color: #ffffff;
+    border-radius: 35px 35px 35px 35px;
+    padding: 2%;
+    color: white;
+  }
+  
+  .acos-card-macos .card {
+    margin-top: 3%;
+    background: rgb(27, 22, 34);
+    background: linear-gradient(
+      41deg,
+      rgba(27, 22, 34, 1) 0%,
+      rgba(90, 67, 96, 1) 100%
+    );
+    border: none;
+    border-radius: 35px 35px 35px 35px;
+    padding: 2%;
+    color: #ffffff;
+  }
+  
+  .acos-card-macos h1 {
+    font-size: 90px;
+    text-align: center;
+  }
+  .card-macos-blue .card {
+    background: rgb(37, 89, 144);
+    background: linear-gradient(
+      41deg,
+      rgba(37, 89, 144, 1) 0%,
+      rgba(41, 26, 63, 1) 100%
+    );
+    color: #ffffff;
+    border-radius: 35px 35px 35px 35px;
+    padding: 7%;
+    color: white;
+  }
+  
+  .card-macos-light-blue .card {
+    background: rgb(34, 193, 195);
+    background: linear-gradient(
+      0deg,
+      rgba(34, 193, 195, 1) 0%,
+      rgb(59, 45, 253) 100%
+    );
+    border-radius: 35px 35px 35px 35px;
+    padding: 7%;
+    color: white;
+  }
+  
+  .card-macos-light-black .card {
+    background: #151516;
+    border-radius: 35px 35px 35px 35px;
+    padding: 7%;
+    color: white;
+  }
+  
+  .Retinadisplayintro {
+    color: #acacac;
+  }
+  
+  .Retinadisplayintro span {
+    color: white;
+  }
+  
+  .Retinadisplayintro h1 {
+    font-size: 75px;
+  }
+  
+  .color-gamut-card {
+    background-image: url("../images/color_bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40rem;
+    border-radius: 35px 35px 35px 35px;
+    color: #ffffff;
+    padding: 6%;
+    text-align: center;
+  }
+  
+  .color-gamut-card h1 {
+    font-size: 4rem;
+  }
+  
+  .color-gamut-card span {
+  }
+  
+  .card-truetune .card {
+    background: rgb(255, 175, 0);
+    background: linear-gradient(
+      0deg,
+      rgb(104, 112, 65) 0%,
+      rgba(0, 0, 0, 1) 100%
+    );
+    border-radius: 35px 35px 35px 35px;
+    padding: 6%;
+  }
+  
+  .card-truetune span,
+  .card-truetune h5 {
+    color: white;
+  }
+  
+  .card-truetune h4 {
+    color: #acacac;
+  }
+  
+  .Pixeldensitycard .card {
+    background: rgb(24, 23, 37);
+    background: linear-gradient(
+      0deg,
+      rgba(24, 23, 37, 1) 0%,
+      rgba(24, 23, 37, 1) 100%
+    );
+    border-radius: 35px 35px 35px 35px;
+    padding: 10%;
+    color: white;
+  }
+  .Pixeldensitycard h1 {
+    font-size: 5rem;
+    text-align: center;
+  }
+  
+  .Cameraintro {
+    color: #acacac;
+  }
+  
+  .Cameraintro span {
+    color: white;
+  }
+  
+  .Camera-card .card {
+    background-color: #151516;
+    border-radius: 35px 35px 35px 35px;
+    padding: 10%;
+    color: white;
+    margin-top: -8%;
+  }
+  
+  .MagicKeyboardintro {
+    color: #acacac;
+  }
+  
+  .MagicKeyboardintro span {
+    color: white;
+  }
+  
+  .MagicKeyboardcardpink .card {
+    background: rgb(24, 23, 37);
+    background: linear-gradient(
+      0deg,
+      rgba(24, 23, 37, 1) 0%,
+      rgba(149, 53, 103, 1) 100%
+    );
+    border-radius: 35px 35px 35px 35px;
+    padding: 10%;
+    color: white;
+    margin-top: -10%;
+  }
+  
+  .MagicKeyboardcardpinkbg .card {
+    background-image: url("../images/trackpad_bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 35px 35px 35px 35px;
+    padding: 10%;
+    color: white;
+    margin-top: -10%;
+  }
+  
+  .MagicKeyboardcardpinkbg .card h4 {
+    font-size: 3rem;
+    width: 50%;
+  }
+  
+  .touchh-card {
+    background: rgb(37, 89, 144);
+    background: linear-gradient(41deg, #596280 0%, #48697a 100%);
+    color: #ffffff;
+    border-radius: 35px 35px 35px 35px;
+    padding: 2%;
+    color: white;
+  }
+  
+  .touchcard .card {
+    background-color: transparent;
+    border: none;
+    border-radius: 35px 35px 35px 35px;
+    padding: 10%;
+    color: white;
+  }
+  
+  .touchcard .card img {
+    height: auto;
+    width: auto;
+  }
+  
+  .Connectivityintro h1 {
+    color: #acacac;
+    font-size: 5rem;
+  }
+  
+  .Connectivityintro span {
+    color: white;
+    font-size: 4rem;
+  }
+  
+  .Connectivitycardpink .card {
+    background: rgb(45, 63, 122);
+    background: linear-gradient(
+      0deg,
+      rgba(45, 63, 122, 1) 0%,
+      rgba(159, 46, 126, 1) 100%
+    );
+    border-radius: 35px 35px 35px 35px;
+    padding: 10%;
+    color: white;
+    margin-top: -10%;
+    border: none;
+    text-align: center;
+  }
+  
+  .Connectivitycardpink .card img {
+    width: auto;
+    height: auto;
+  }
+  
+  .Thunderboltcard .card {
+    background: transparent;
+  }
+  
+  .Ar {
+    background-color: #121212;
+  }
+  
+  .Ar-card {
+    background-color: #1d1d1f;
+    border-radius: 35px 35px 35px 35px;
+    padding: 10%;
+    color: white;
+    border: none;
+    text-align: center;
+  }
+  
+  .Ar-card img {
+    width: auto;
+    height: auto;
+  }
+  
+  .which-laptop {
+    background-color: #121212;
+    text-align: center;
+    color: white;
+  }
+  .which-laptop-card-section {
+    margin-top: 4%;
+  }
+  .which-laptop-card {
+    background-color: #1d1d1f;
+    border-radius: 35px 35px 35px 35px;
+    padding: 10%;
+    color: white;
+    border: none;
+    text-align: center;
+  }
+  
+  .which-laptop-card img {
+    width: auto;
+    height: auto;
+  }
+  
+  .which-laptop-card li {
+    background-color: transparent !important;
+    color: white;
+    border: none;
+    text-decoration: none;
+  }
+  
+  .Ventura-card {
+    background-image: url("https://www.apple.com/v/macbook-air-m1/f/images/shared/router_macos_ventura__hlw6jgutiwy2_large.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40rem;
+    border-radius: 35px 35px 35px 35px;
+    color: #ffffff;
+    padding: 6%;
+    text-align: center;
+  }
+  
+  .Ventura-card p {
+    font-size: 4rem;
+    color: white;
+  }
+  
+  .continuity-laptop-card {
+    background-color: #1d1d1f;
+    border-radius: 35px 35px 35px 35px;
+    color: white;
+    border: none;
+    text-align: center;
+    margin-top: 6%;
+  }
+  
+  .continuity-laptop-card img {
+  }
+  
+  .info-card {
+    background-color: #121212;
+    color: white;
+    border: none;
+    text-align: center;
+  }
+  
+  .info-card img {
+    width: auto;
+    height: auto;
+  }
+  
+  .info-card li {
+    background-color: transparent !important;
+    color: #acacac;
+    border: none;
+    text-decoration: none;
+    text-align: left;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .Gpu-card h1 {
+      font-size: xx-large;
+    }
+  
+    .Battery-cardgreen .card h1 {
+      font-size: 55px;
+    }
+  
+    .acos-card-macos h1 {
+      font-size: 55px;
+    }
+  
+    .color-gamut-card h1 {
+      font-size: 35px;
+    }
+  
+    .MagicKeyboardcardpinkbg .card h4 {
+      font-size: 2.5rem;
+      width: 70%;
+      font-weight: bold;
+    }
+  }
+  
